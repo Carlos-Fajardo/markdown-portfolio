@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+se requiere *o*, *y* y *j* como letras **necesarias**. Asi mismo, _**También la h**_
